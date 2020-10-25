@@ -1,0 +1,19 @@
+{
+  "name": "simple-video-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniespialowski/simple-video-player-js.git"
+  },
+  "author": "Andrzej Nieśpiałowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniespialowski/simple-video-player-js/issues"
+  },
+  "homepage": "https://github.com/aniespialowski/simple-video-player-js#readme"
+}
