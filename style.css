@@ -192,3 +192,6 @@ footer, a {
     text-align: center;
     text-decoration: none;
 }
+a:hover {
+    text-decoration: underline;
+}
